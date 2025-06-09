@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp school /root/holbertonschool-shell/permissions/hello
+chown :school hello
